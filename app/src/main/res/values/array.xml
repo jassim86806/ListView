@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mobile_os">
+        <item>Android os</item>
+        <item>IOS</item>
+        <item>Blackberry</item>
+        <item> RimOS</item>
+        <item>Sysmbian </item>
+        <item>Webos</item>
+    </string-array>
+
+</resources>

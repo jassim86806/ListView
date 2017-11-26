@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="Android"> Android is a mobile operating system developed
+        by Google, based on the Linux kernel and designed primarily
+        for touchscreen mobile devices such as smartphones and tablets.
+        for cars, and Android Wear for wrist watches, each with a specialized user interface.
+        Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.
+
+    Android is a mobile operating system developed
+        by Google, based on the Linux kernel and designed primarily
+        for touchscreen mobile devices such as smartphones and tablets.
+        for cars, and Android Wear for wrist watches, each with a specialized user interface.
+        Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.
+
+    </string>
+    <string name="iOS">
+        "iOS is Apple's mobile operating system used to run the popular iPhone, iPad,
+        and iPod Touch devices. Formerly known as the iPhone OS, the name was changed
+        with the introduction of the iPad iOS utilizes a multi-touch interface where simple
+        gestures are used to operate the device, like swiping your
+    </string>
+<string name="BlackBerry">
+    BlackBerry is a leading cybersecurity software and services company dedicated to securing the Enterprise of Things
+                        Based in Waterloo, Ontario, the company was founded in 1984 and operates in North America, Europe,
+                        Asia, Australia, Middle East, Latin America and Africa.
+</string>
+    <string name="Rimos">
+        Significado de Rimos\nRimos vem do verbo rir. O mesmo que: chalaceamos, chocarreamos, gargalhamos, gracejamos, sorrimos.
+    </string>
+    <string name="Symbian">
+        In 2009, we established the Symbian Foundation to make the Symbian platform available open source and royalty-free. In November 2010 we announced that the foundation
+        would ramp down its operational activities as a result of changes in global economic and market conditions.
+        We have now completed the transition from a non-profit organisation responsible for governing the open
+    </string>
+
+    <string name="Webos">
+        WebOS is an LG-owned, Linux-based, smart TV operating system that is set up to allow control and access
+        of LG Smart TV’s more advanced features and connected devices through a graphical user interface (GUI).
+        WebOS was developed  by Palm as a mobile OS. The company released it  in 2009 as Palm webOS. Hewlett Packard
+        acquired palm in April 2010. The operating system was used in a number of Palm and HP smartphones.
+    </string>
+
+
+
+</resources>
